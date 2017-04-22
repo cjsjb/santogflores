@@ -26,7 +26,7 @@
 		g' 4. e' 8 ~ e' 2  |
 		bes' 4 bes' a' f'  |
 		g' 2. r4  |
-		a' 4 f' 8 f' ~ f' 4 g'  |
+		a' 4 g' 8 f' ~ f' 4 g'  |
 		a' 4. f' r4  |
 %% 15
 		a' 4. g' f' 4  |
@@ -37,13 +37,13 @@
 %% 20
 		f' 4 ( g' 8 ) g' ~ g' 2 ~  |
 		g' 2 r4 c'  |
-		bes' 4. a' 4 r8 c' 4  |
-		bes' 4. a' 4 r8 c' 4  |
+		bes' 4. a' 4 -\staccato r8 c' 4  |
+		bes' 4. a' 4 -\staccato r8 c' 4  |
 		bes' 4. a' f' 4  |
 %% 25
 		f' 4 ( g' 8 ) g' ~ g' r c' 4  |
-		bes' 4. a' c' 4  |
-		bes' 4. a' c' 4  |
+		bes' 4. a' 4 r8 c' 4  |
+		bes' 4. a' 4 r8 c' 4  |
 		bes' 4. a' f' 4  |
 		f' 4 ( g' 8 ) g' ~ g' r a' 4  |
 %% 30
@@ -54,16 +54,16 @@
 		bes' 4. ( a' ) f' 4  |
 %% 35
 		g' 2. r4  |
-		bes' 4. ( a' ) bes' 4  |
-		c'' 1 ~  |
-		c'' 2 r4 c'  |
-		bes' 4. a' 4 r8 c' 4  |
+		bes' 4. ( a' ) f' 4  |
+		g' 1 ~  |
+		g' 2 r4 c'  |
+		bes' 4. a' 4 -\staccato r8 c' 4  |
 %% 40
-		bes' 4. a' 4 r8 c' 4  |
+		bes' 4. a' 4 -\staccato r8 c' 4  |
 		bes' 4. a' f' 4  |
 		f' 4 ( g' 8 ) g' ~ g' r c' 4  |
-		bes' 4. a' c' 4  |
-		bes' 4. a' c' 4  |
+		bes' 4. a' 4 r8 c' 4  |
+		bes' 4. a' 4 r8 c' 4  |
 %% 45
 		bes' 4. a' f' 4  |
 		f' 1  |
