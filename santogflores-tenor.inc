@@ -26,11 +26,11 @@
 		g 4. c 8 ~ c 2  |
 		bes 4 bes a f  |
 		g 2. r4  |
-		a 4 g 8 f ~ f 4 g  |
-		a 4. f r4  |
+		d' 4 d' 8 d' ~ d' 4 d'  |
+		des' 4. des' r4  |
 %% 15
-		a 4. g f 4  |
-		g 4. ( d ) d 4  |
+		c' 4. c' c' 4  |
+		b 4. ~ b d 4  |
 		bes 4. a f 4  |
 		bes 4. a r4  |
 		bes 4. ( a ) f 4  |
@@ -47,10 +47,10 @@
 		d' 4. c' a 4  |
 		a 4 ( c' 8 ) c' ~ c' r a 4  |
 %% 30
-		a 4. f g 4  |
-		a 4. f r4  |
-		a 4. ( g ) f 4  |
-		g 4. d ~ d 8 r  |
+		d' 4. d' d' 4  |
+		des' 4. des' r4  |
+		c' 4. ~ c' c' 4  |
+		b 4. b ~ b 8 r  |
 		bes 4. ( a ) f 4  |
 %% 35
 		g 2. r4  |
