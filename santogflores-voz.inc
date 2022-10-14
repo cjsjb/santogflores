@@ -73,7 +73,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-voz" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-voz" {
 		San -- to, __ san -- to, __ san -- "to es" el Se -- ñor.
 		San -- to, __ san -- to, __ san -- "to es" el Se -- ñor.
 
