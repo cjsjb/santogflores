@@ -12,6 +12,8 @@
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
+		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
+
 		\clef "treble"
 		\time 4/4
 		\key f \major
